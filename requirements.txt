@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+pillow
+xlsxwriter
+Pillow
+XlsxWriter
+reportlab
